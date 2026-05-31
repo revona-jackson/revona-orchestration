@@ -1,3 +1,8 @@
+---
+title: Overview
+parent: Orchestration Studio
+nav_order: 1
+---
 
 Overview: The Orchestration Studio
 The Orchestration Studio is a creative operating system engineered to solve a modern problem: the velocity of digital creation has outpaced the capacity of any single human creator. Traditional workflows rely on linear effort — ideation, drafting, revising, optimizing, publishing — all performed manually, all constrained by time and cognitive load.
