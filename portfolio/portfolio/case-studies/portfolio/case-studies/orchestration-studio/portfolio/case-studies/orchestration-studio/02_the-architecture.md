@@ -1,4 +1,10 @@
-02 — The Architecture: The System Behind the System
+---
+title: The Architecture
+parent: Orchestration Studio
+nav_order: 3
+---
+
+The Architecture: The System Behind the System
 The Orchestration Studio is built on a deterministic, governance‑first architecture. Every creative asset, agent, and workflow is anchored to a root‑level directory structure that functions as the system’s source of truth. This ensures that narrative integrity, metadata consistency, and cross‑platform alignment are never dependent on memory, improvisation, or human recall.
 
 The architecture behaves like a lightweight creative OS: modular, extensible, and capable of supporting multi‑agent execution without drift.
