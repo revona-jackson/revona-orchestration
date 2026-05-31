@@ -15,7 +15,6 @@ clean dependency mapping
 
 zero ambiguity in where assets live
 
-Code
 ┌──────────────────────────────────────────────────────────────┐
 │                  ORCHESTRATION STUDIO ROOT                   │
 └──────────────────────────────────────────────────────────────┘
@@ -26,13 +25,11 @@ Code
 03_GRACEFULSERENITY11/        → YouTube ambience pipeline  
 04_FREEDOM-PLAN/              → Strategic frameworks + analysis  
 05_PREPAREDNESS/              → FEMA-aligned resilience system  
-Each pillar is a self‑contained subsystem with its own routing logic, asset types, and metadata schema.
-The Creative Directory governs them all.
+
 
 2.2 Operational Topography: How the System Thinks
 The architecture is not just a file tree — it is a semantic map that defines how information flows through the studio.
 
-Code
 ┌──────────────────────────────────────────────────────────────┐
 │                 OPERATIONAL TOPOGRAPHY MAP                   │
 └──────────────────────────────────────────────────────────────┘
@@ -60,7 +57,6 @@ This topography ensures that every output — whether a YouTube ambience video o
 The studio operates on a continuous integration loop.
 Every task flows through the same deterministic sequence:
 
-Code
 ┌──────────────────────────────────────────────────────────────┐
 │                 RUNTIME EXECUTION LOOP                       │
 └──────────────────────────────────────────────────────────────┘
