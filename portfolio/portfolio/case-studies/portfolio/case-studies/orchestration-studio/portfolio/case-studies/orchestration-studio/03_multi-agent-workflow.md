@@ -1,4 +1,4 @@
-03 — The Multi‑Agent Workflow: How the System Executes Creative Work
+The Multi‑Agent Workflow: How the System Executes Creative Work
 The Orchestration Studio operates through a coordinated network of specialized agents, each designed to perform a specific class of work with deterministic precision. Instead of a single model attempting to do everything, the system distributes tasks across purpose‑built agents that collaborate through structured hand‑offs, shared context, and a unified governance layer.
 
 This transforms creative production from a linear, human‑driven process into a parallelized execution pipeline.
