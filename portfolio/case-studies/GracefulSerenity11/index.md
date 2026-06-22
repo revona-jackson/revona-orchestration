@@ -1,5 +1,6 @@
 ---
 title: GracefulSerenity11
+parent: Case Studies
 nav_order: 2
 has_children: true
 ---
