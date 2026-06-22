@@ -1,6 +1,6 @@
 ---
 title: Overview
-parent: WanderingHistories
+parent: The Wandering Histories
 nav_order: 1
 ---
 
