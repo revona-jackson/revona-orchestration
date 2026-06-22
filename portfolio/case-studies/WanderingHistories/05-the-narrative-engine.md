@@ -1,6 +1,6 @@
 ---
 title: The Narrative Engine
-parent: WanderingHistories
+parent: The Wandering Histories
 nav_order: 5
 ---
 
