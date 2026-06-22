@@ -7,6 +7,8 @@ nav_order: 4
 The Multi‑Agent Workflow: How the System Executes Creative Work
 The Orchestration Studio operates through a coordinated network of specialized agents, each designed to perform a specific class of work with deterministic precision. Instead of a single model attempting to do everything, the system distributes tasks across purpose‑built agents that collaborate through structured hand‑offs, shared context, and a unified governance layer.
 
+![Multi-Agent Workflow](assets/Multi-Agent Workflow.png)
+
 This transforms creative production from a linear, human‑driven process into a parallelized execution pipeline.
 
 3.1 Agent Roles: Specialization Over Generalization
@@ -67,6 +69,8 @@ They follow a deterministic hand‑off sequence that ensures continuity and prev
    Packages final output for deployment
 This protocol ensures that no agent oversteps its role and no output bypasses governance.
 
+![Agent Interaction](assets/Agent Interaction.png)
+
 3.3 Context Windows: The Memory Architecture
 The studio uses a layered context system to maintain coherence across long‑form work:
 
@@ -110,6 +114,8 @@ Extensible
 New agents can be added without disrupting the system.
 
 This is what allows the studio to scale creative production without sacrificing quality or narrative integrity.
+
+![Pipeline Flow Diagram](assets/Pipeline Flow Diagram.png)
 
 Director’s Note
 A single model trying to do everything is a bottleneck.
