@@ -1,6 +1,6 @@
 ---
 title: The Field Note System
-parent: WanderingHistories
+parent: The Wandering Histories
 nav_order: 4
 ---
 
