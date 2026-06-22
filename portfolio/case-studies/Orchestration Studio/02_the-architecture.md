@@ -4,6 +4,8 @@ parent: Orchestration Studio
 nav_order: 3
 ---
 
+![System Architecture](assets/System Architecture.png)
+
 The Architecture: The System Behind the System
 The Orchestration Studio is built on a deterministic, governance‑first architecture. Every creative asset, agent, and workflow is anchored to a root‑level directory structure that functions as the system’s source of truth. This ensures that narrative integrity, metadata consistency, and cross‑platform alignment are never dependent on memory, improvisation, or human recall.
 
@@ -77,6 +79,9 @@ Every task flows through the same deterministic sequence:
    ↓  
 [ GOVERNANCE UPDATE ]  
    ↺ (Feedback Loop)
+
+![Orchestration Layer](assets/Orchestration Layer.png)
+   
 This loop ensures:
 
 no agent acts without context
