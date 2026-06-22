@@ -1,6 +1,6 @@
 ---
 title: The Challenge
-parent: WanderingHistories
+parent: The Wandering Histories
 nav_order: 2
 ---
 
