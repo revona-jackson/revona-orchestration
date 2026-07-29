@@ -1,3 +1,17 @@
+<!-- HERO SECTION -->
+<p align="center">
+  <img 
+    src="https://github.com/revona-jackson/revona-orchestration/raw/main/AI%20Marketing%20Orchestration%20Overview%20-%20Emberlight%20Studio.png" 
+    alt="AI Marketing Orchestration Architecture"
+    style="max-width: 900px; width: 100%; border-radius: 6px;"
+  >
+</p>
+
+<p align="center"><em>AI Marketing Orchestration Overview — Emberlight Studio</em></p>
+
+<br>
+<br>
+
 # Revona Orchestration Framework
 
 Welcome to the evolving backbone of Revona’s AI-native system logic, workflow architecture, and structured creative practice. This site serves as the public-facing home of the Emberlight Studio orchestration model.
