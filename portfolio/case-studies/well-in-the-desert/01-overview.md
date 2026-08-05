@@ -1,3 +1,9 @@
+---
+title: Overview
+parent: well-in-the-desert
+nav_order: 1
+---
+
 Overview
 
 Well in the Desert is a daily micro‑ritual designed to cultivate emotional steadiness, narrative continuity, and creative discipline. Built as a lightweight, repeatable system, it blends reflective writing, symbolic motifs, and structured metadata to create a living archive of personal and thematic evolution.
