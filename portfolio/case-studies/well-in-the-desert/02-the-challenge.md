@@ -1,7 +1,7 @@
 ---
 title: The Challenge
-parent: well-in-the-desert
-nav_order: 1
+parent: Well in the Desert
+nav_order: 2
 ---
 
 The Challenge
