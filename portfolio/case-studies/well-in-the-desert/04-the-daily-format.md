@@ -1,3 +1,9 @@
+---
+title: The Daily Format
+parent: Well in the Desert
+nav_order: 4
+---
+
 The Daily Format
 
 The daily format for Well in the Desert is intentionally lean, designed to demonstrate how standardized inputs enable effortless AI orchestration. By establishing a clean, structured schema for human input, the system eliminates daily friction while providing the exact metadata needed for downstream automated workflows.
