@@ -1,3 +1,9 @@
+---
+title: The Metadata Schema
+parent: Well in the Desert
+nav_order: 5
+---
+
 The Metadata Schema
 
 The metadata schema behind Well in the Desert provides the structural taxonomy that allows individual micro-reflections to scale into a rich, searchable media archive. Designed from an integrated marketing perspective, this schema bridges human creative input with AI-driven categorization, enabling long-arc pattern recognition, automated asset tagging, and multi-platform campaign management.
