@@ -1,3 +1,9 @@
+---
+title: The Challenge
+parent: well-in-the-desert
+nav_order: 1
+---
+
 The Challenge
 
 Modern digital environments encourage fragmentation — rapid context switching, shallow engagement, and emotional volatility. For modern brand builders and creators alike, long‑form narrative continuity suffers when attention is constantly disrupted, and production workflows often collapse under the weight of daily execution friction.
