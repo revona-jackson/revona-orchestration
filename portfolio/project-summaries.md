@@ -7,8 +7,6 @@ nav_order: 3
 
 # Project Summaries
 
-Project Summaries
-
 This section provides a high-level overview of the core initiatives within the Emberlight Orchestration Studio portfolio. Designed to reflect the future of integrated marketing operations, each project showcases how a strategic leader can orchestrate AI systems to scale rich human creative vision, maintain absolute brand governance, and drive multi-platform engagement without operational friction.
 
 GracefulSerenity11
