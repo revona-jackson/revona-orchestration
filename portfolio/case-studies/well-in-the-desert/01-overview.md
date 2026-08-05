@@ -1,6 +1,6 @@
 ---
 title: Overview
-parent: well-in-the-desert
+parent: Well in the Desert
 nav_order: 1
 ---
 
