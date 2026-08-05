@@ -7,8 +7,6 @@ nav_order: 4
 
 # Narrative Frames
 
-Narrative Frames
-
 Narrative Frames define how each initiative within the Emberlight Orchestration Studio portfolio is strategically positioned, interpreted, and communicated to external stakeholders. They provide the connective layer between core execution and brand positioning—clarifying strategic intent, market relevance, and narrative authority for executive leaders, hiring teams, and enterprise collaborators.
 
 Rather than presenting creative projects as isolated artifacts, Narrative Frames establish the positioning layer that translates complex AI-orchestrated systems into clear, high-value business and creative narratives.
