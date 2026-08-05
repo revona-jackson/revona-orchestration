@@ -1,3 +1,9 @@
+---
+title: The Architecture
+parent: Well in the Desert
+nav_order: 3
+---
+
 The Architecture
 
 The architecture of Well in the Desert is intentionally lean, designed to demonstrate how modern marketing operations can execute high-frequency publishing without operational bloat. It functions as a micro-system that transforms brief, human-authored reflections into structured, multi-platform assets through targeted AI workflows.
